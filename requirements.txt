@@ -18,3 +18,4 @@ langchain-text-splitters
 langchain_google_genai
 pymongo
 langsmith
+beautifulsoup4
